@@ -26,18 +26,12 @@
 </p>
 
 <p align="center">
-  <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-
-## :information_source: What's Next Level Week?
-
-Is an free event that occur during a week, with code, challenges and professional networking with an objective to take programmer to the next level.
 
 ## 💻 Project
 
@@ -46,6 +40,8 @@ Ecoleta is an app based on international environment week that provide way to cr
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/preview.svg" width="500px" />
 </h1>
+
+This app was created in Next Level Week, an free event that occur during a week, with code, challenges and professional networking with an objective to take programmer to the <strong>next level</strong>.
 
 ## :rocket: Technologies
 
@@ -56,10 +52,6 @@ This project was developed with the following technologies:
 - [React][reactjs]
 - [React Native][rn]
 - [Expo][expo]
-
-## 🔖 Layout
-
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
 ## :information_source: How To Use
 
